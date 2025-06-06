@@ -23,7 +23,7 @@ A simple and interactive React web app to help you build, track, and maintain da
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/yourusername/habitTracker-webapp.git](https://github.com/yourusername/habitTracker-webapp.git)
+   git clone https://github.com/thealihamza04/habitTracker-webapp
    ```
 2. Install dependencies:
    ```bash
@@ -32,9 +32,9 @@ A simple and interactive React web app to help you build, track, and maintain da
    ```
 3. Run the app locally:
    ```bash
-   npm start
+   npm run dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
@@ -56,12 +56,12 @@ A simple and interactive React web app to help you build, track, and maintain da
 ## Future Improvements
 * Add backend for multi-device sync 🌐
 * User authentication 🔒
-* Notifications and reminders ⏰
+* Notifications and reminders ⏰ (coming soon 😂)
 
 ---
 
 ## License
-MIT License © 2025 Your Name
+This project is open for personal use. No official license applied.
 
 ---
 

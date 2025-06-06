@@ -16,7 +16,8 @@ A simple and interactive React web app to help you build, track, and maintain da
 ---
 
 ## Demo
-![Demo GIF or Screenshot](link-to-demo-image-or-gif)
+![image](https://github.com/user-attachments/assets/c2c1c1f2-f424-42f5-b60b-071086f26b85)
+
 
 ---
 
